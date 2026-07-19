@@ -1,0 +1,523 @@
+row_id,measure,effectiveness,reason,reason_clean,sum_reason
+4,fence,not,Giraffe breaks fences,fence issues,Anatomical 
+7,fence,not,They break fences,fence issues,Anatomical 
+9,fence,not,Live porous fence,fence issues,Anatomical 
+10,fence,not,They break through fences,fence issues,Anatomical 
+11,fence,moderately,Bar giraffes but they often break through,fence issues,Anatomical 
+13,fence,moderately,Effective to some level but porous,fence issues,Anatomical 
+15,fence,not,They jump over or break through,fence issues,Anatomical 
+16,fence,not,They break through fences,fence issues,Anatomical 
+17,fence,moderately,They break through,fence issues,Anatomical 
+18,fence,not,They break through,fence issues,Anatomical 
+19,fence,not,They break through,fence issues,Anatomical 
+20,fence,not,They break through or jump over,fence issues,Anatomical 
+21,fence,not,They break through,fence issues,Anatomical 
+22,fence,moderately,Not that much effective to some extent,fence issues,Anatomical 
+24,fence,not,Giraffe destroys the fence,fence issues,Anatomical 
+26,fence,not,Still invade the farm,fence issues,Anatomical 
+29,fence,not,Giraffes break Break through fences since it is live fence,fence issues,Anatomical 
+30,fence,not,It is live fence that giraffes can breakthrough,fence issues,Anatomical 
+33,fence,not,It's local fence that giraffe can easily pass,fence issues,Anatomical 
+35,fence,not,Giraffe can easily pass over the fence,fence issues,Anatomical 
+36,fence,not,Giraffe pass over the fence,fence issues,Anatomical 
+37,fence,not,Pass over the fence,fence issues,Anatomical 
+39,fence,not,Destroys the temporary fence,fence issues,Anatomical 
+42,fence,not,Temporary fence that Giraffe can pass over,fence issues,Anatomical 
+44,fence,not,Breaks easily and expensive to maintain,fence issues,Anatomical 
+45,fence,not,Destroyed easily by the girraffe,fence issues,Anatomical 
+47,fence,not,Breaks easily,fence issues,Anatomical 
+48,fence,moderately,Not that much effective for now,fence issues,Anatomical 
+49,fence,not,To weak breaks easily,fence issues,Anatomical 
+50,fence,not,Breaks easily,fence issues,Anatomical 
+52,fence,moderately,Not that much effective.  Breaks easily,fence issues,Anatomical 
+58,fence,not,Giraffes breakthrough regardless,fence issues,Anatomical 
+59,fence,not,Giraffe circle around to find openings or even breakthrough fence,fence issues,Anatomical 
+60,fence,not,They breakthrough,fence issues,Anatomical 
+61,fence,moderately,Only when installed properly,fence issues,Anatomical 
+62,fence,not,They breakthrough,fence issues,Anatomical 
+63,fence,not,They breakthrough fence_live fence,fence issues,Anatomical 
+65,fence,not,Tall better fence,fence issues,Anatomical 
+66,fence,not,Install better fence,fence issues,Anatomical 
+67,fence,moderately,Tall wire fence,fence issues,Anatomical 
+68,fence,not,Fence is too short  than giraffe,fence issues,Anatomical 
+69,fence,moderately,Just break through,fence issues,Anatomical 
+70,fence,moderately,Break the fence,fence issues,Anatomical 
+71,fence,not,They break through fences,fence issues,Anatomical 
+72,fence,not,Breaks easily,fence issues,Anatomical 
+73,fence,not,Breaks easily,fence issues,Anatomical 
+76,fence,not,They keep breaking the fences,fence issues,Anatomical 
+77,fence,not,They breakthrough live fence,fence issues,Anatomical 
+78,fence,not,They jump over fence,fence issues,Anatomical 
+79,fence,moderately,Bar giraffe but they still break through,fence issues,Anatomical 
+80,fence,moderately,When freshly installed it help but as they dry they form gaps that giraffe can breakthrough,fence issues,Anatomical 
+81,fence,not,They jump over and breakthrough fences,fence issues,Anatomical 
+82,fence,not,They breakthrough fences,fence issues,Anatomical 
+83,fence,not,They jump over and breakthrough.  Usually we just place them of its path to that when they step over them you can hear them,fence issues,Anatomical 
+84,fence,not,They jump over fences,fence issues,Anatomical 
+85,fence,not,They breakthrough fences,fence issues,Anatomical 
+86,fence,not,They long legs and can jump over fence,fence issues,Anatomical 
+87,fence,not,They break fence and skip over,fence issues,Anatomical 
+88,fence,not,They break fences,fence issues,Anatomical 
+89,fence,not,They jump over because they are tall,fence issues,Anatomical 
+90,fence,not,They breakthrough,fence issues,Anatomical 
+91,fence,not,They break fences,fence issues,Anatomical 
+92,fence,not,They breakthrough fences,fence issues,Anatomical 
+93,fence,not,They break fences,fence issues,Anatomical 
+94,fence,not,They break fences,fence issues,Anatomical 
+95,fence,not,They break fences,fence issues,Anatomical 
+96,fence,not,They break fences,fence issues,Anatomical 
+97,fence,not,They break fences,fence issues,Anatomical 
+98,fence,not,They break fences,fence issues,Anatomical 
+99,fence,not,They break fences,fence issues,Anatomical 
+100,fence,not,They break fences,fence issues,Anatomical 
+101,fence,not,They break fences,fence issues,Anatomical 
+102,fence,not,They fences,fence issues,Anatomical 
+103,fence,not,They break fences,fence issues,Anatomical 
+104,fence,not,They break fences,fence issues,Anatomical 
+105,fence,not,They break fences,fence issues,Anatomical 
+106,fence,not,They break fences,fence issues,Anatomical 
+107,fence,not,They break fences,fence issues,Anatomical 
+108,fence,not,They break fences,fence issues,Anatomical 
+111,fence,not,They break fences,fence issues,Anatomical 
+112,fence,not,They break fences,fence issues,Anatomical 
+113,fence,not,They break fences,fence issues,Anatomical 
+114,fence,not,They break fences,fence issues,Anatomical 
+115,fence,not,They break fences,fence issues,Anatomical 
+116,fence,not,They break fences,fence issues,Anatomical 
+117,fence,not,They break fences,fence issues,Anatomical 
+118,fence,not,They break fences,fence issues,Anatomical 
+119,fence,not,They break it it is live fence,fence issues,Anatomical 
+120,fence,not,They break fences,fence issues,Anatomical 
+121,fence,moderately,It is wire fence but sometimes they still break through,fence issues,Anatomical 
+122,fence,not,They break fences,fence issues,Anatomical 
+123,fence,not,The break the fence on daily basis (wire fence),fence issues,Anatomical 
+124,fence,not,Giraffe is tall and can jump over fence or even break it (wire fence),fence issues,Anatomical 
+125,fence,moderately,They break fences,fence issues,Anatomical 
+126,fence,not,They break and jump over fence,fence issues,Anatomical 
+127,fence,not,They break fences,fence issues,Anatomical 
+128,fence,moderately,They break fence,fence issues,Anatomical 
+129,fence,not,They break fences,fence issues,Anatomical 
+131,fence,not,They break or jump over,fence issues,Anatomical 
+132,fence,not,They break through fences,fence issues,Anatomical 
+133,fence,not,They break fences single wire fence,fence issues,Anatomical 
+134,fence,moderately,They jump over at low places,fence issues,Anatomical 
+135,fence,not,They break fences,fence issues,Anatomical 
+137,fence,not,They break and jump over fence,fence issues,Anatomical 
+138,fence,not,They break fences,fence issues,Anatomical 
+140,fence,moderately,They can jump over or breakthrough,fence issues,Anatomical 
+142,fence,not,They break and jump over,fence issues,Anatomical 
+143,fence,not,They break fence,fence issues,Anatomical 
+144,fence,not,They jump over with their long legs,fence issues,Anatomical 
+145,fence,not,They jump over fences,fence issues,Anatomical 
+147,fence,not,They jump over or break fences,fence issues,Anatomical 
+148,fence,not,They break fences,fence issues,Anatomical 
+149,fence,not,They break fences,fence issues,Anatomical 
+151,fence,not,They jump over with long legs,fence issues,Anatomical 
+152,fence,not,They are tall they jump over fences,fence issues,Anatomical 
+153,fence,not,They jump over or break through,fence issues,Anatomical 
+155,fence,moderately,They break through the fence but sometime it helps,fence issues,Anatomical 
+156,fence,moderately,They break through,fence issues,Anatomical 
+157,fence,not,They break fences,fence issues,Anatomical 
+158,fence,not,They jump over with their long legs,fence issues,Anatomical 
+159,fence,not,They jump over or break,fence issues,Anatomical 
+160,fence,not,They jump over,fence issues,Anatomical 
+164,fence,moderately,Giraffe are tall and jump over femces,fence issues,Anatomical 
+166,fence,moderately,They jump over fences,fence issues,Anatomical 
+167,fence,not,They break through sticks,fence issues,Anatomical 
+168,fence,not,They break fence and jump,fence issues,Anatomical 
+169,fence,not,They jump and break through,fence issues,Anatomical 
+170,fence,not,They break through,fence issues,Anatomical 
+174,fence,not,Giraffe destroyed,fence issues,Anatomical 
+185,fence,not,Minimal damage,fence issues,Anatomical 
+150,fence,not,They break fence,fence issues,Anatomical 
+69,fence,moderately,Indicate human presence,fence issues,Anatomical 
+194,fence,Highly,N/A,no reason,no reason
+204,fence,moderately,8,no reason,no reason
+2,fence,Highly,Prevents entry,prevent entry,Anatomical 
+3,fence,extremely,Prevent entry,prevent entry,Anatomical 
+5,fence,Highly,Bar entry for giraffe,prevent entry,Anatomical 
+6,fence,moderately,Bars giraffe but they break it,prevent entry,Anatomical 
+12,fence,moderately,Prevent entry to some levels,prevent entry,Anatomical 
+14,fence,moderately,Prevent entry nbut often break through,prevent entry,Anatomical 
+41,fence,Highly,Prevent Giraffe from entering the farm,prevent entry,Anatomical 
+154,fence,Highly,They bar them from entering but when they are being chased they break through,prevent entry,Anatomical 
+171,fence,moderately,It reduce the girrafe to enter the farm,prevent entry,Anatomical 
+179,fence,moderately,It reduces girrafe invasion,prevent entry,Anatomical 
+184,fence,extremely,It reduces the girrafe to enter the farm not deally,prevent entry,Anatomical 
+27,fence,moderately,Giraffe don't often come,unsure,Unsure
+28,fence,moderately,It's reduce by small chance,unsure,Unsure
+51,fence,moderately,Not that much effective,unsure,Unsure
+64,fence,moderately,Indicate human presence,unsure,Unsure
+163,fence,moderately,They fences,unsure,Unsure
+165,fence,moderately,Because  will west more time,unsure,Unsure
+176,fence,moderately,Buy applying new model,unsure,Unsure
+178,fence,moderately,Not really,unsure,Unsure
+180,fence,moderately,Yes,unsure,Unsure
+181,fence,moderately,Not really,unsure,Unsure
+183,fence,not,Minimal damage,unsure,Unsure
+130,fence,Highly,It is a wire fence but they often break it when being chased,wire fence,Anatomical 
+107,fire,moderately,The fire burns out and some are not even afraid anymore,burns out,Environmental
+111,fire,moderately,Burns out but helps although others are not scared of it,burns out,Environmental
+133,fire,moderately,They are used this and sometimes you run out of firewood,burns out,Environmental
+2,fire,moderately,They still come,got used to,Behavioral
+5,fire,not,They still come regardless,got used to,Behavioral
+7,fire,moderately,Giraffe are afraid of fire,got used to,Behavioral
+11,fire,moderately,They are afraid of fire,got used to,Behavioral
+16,fire,not,They are used to fire,got used to,Behavioral
+17,fire,moderately,They come even when you light fire,got used to,Behavioral
+88,fire,not,They are used to it,got used to,Behavioral
+90,fire,not,They are used to it,got used to,Behavioral
+92,fire,not,They are used to fire,got used to,Behavioral
+93,fire,not,They are used to it,got used to,Behavioral
+94,fire,not,They are used to it,got used to,Behavioral
+100,fire,not,They are not afraid of fire I think they are used to it by now,got used to,Behavioral
+118,fire,not,They are used to it,got used to,Behavioral
+119,fire,not,They are used to fire,got used to,Behavioral
+122,fire,not,They are used to it by now but it helps,got used to,Behavioral
+123,fire,not,They are used to this,got used to,Behavioral
+124,fire,not,They are used to fire,got used to,Behavioral
+126,fire,not,They are used to it by now,got used to,Behavioral
+127,fire,not,They are used to it,got used to,Behavioral
+130,fire,not,They are used to this,got used to,Behavioral
+135,fire,moderately,They get used to it,got used to,Behavioral
+138,fire,moderately,They used to be afraid but quickly got used to it,got used to,Behavioral
+146,fire,not,They are no longer afraid,got used to,Behavioral
+147,fire,not,They are used to it,got used to,Behavioral
+149,fire,not,They are used to it,got used to,Behavioral
+150,fire,moderately,They help but get used to it,got used to,Behavioral
+152,fire,not,I used to help but they got used to it,got used to,Behavioral
+160,fire,not,They are used to it,got used to,Behavioral
+166,fire,not,They are used to it,got used to,Behavioral
+168,fire,not,They are used to it,got used to,Behavioral
+3,fire,moderately,Indicate presence of human,human presence,Psychological
+21,fire,Highly,They think there is human presence,human presence,Psychological
+63,fire,moderately,Indicate human,human presence,Psychological
+64,fire,moderately,Indicate human presence,human presence,Psychological
+69,fire,moderately,Indicate human presence,human presence,Psychological
+71,fire,moderately,Indicate human presence,human presence,Psychological
+77,fire,moderately,Indicate human presence,human presence,Psychological
+112,fire,moderately,It indicate human presence,human presence,Psychological
+113,fire,moderately,They are afraid it shows human presence,human presence,Psychological
+115,fire,moderately,They think someone is waving and making noise,human presence,Psychological
+139,fire,moderately,They simulate human presence,human presence,Psychological
+142,fire,moderately,This indicate human presence,human presence,Psychological
+143,fire,moderately,They indicate human presence,human presence,Psychological
+145,fire,moderately,Indicate human presence,human presence,Psychological
+148,fire,moderately,Fire is associated by humans,human presence,Psychological
+151,fire,moderately,It shows human presence,human presence,Psychological
+18,fire,moderately,Giraffe is afraid of fire,not scared,Psychological
+19,fire,not,Giraffe are not afraid of giraffe,not scared,Psychological
+20,fire,not,They come even where there is fire,not scared,Psychological
+24,fire,not,Still invade,not scared,Psychological
+29,fire,not,They come regardless,not scared,Psychological
+30,fire,not,They still come even pass close to fire,not scared,Psychological
+58,fire,not,Giraffe seem not to be afraid of fire,not scared,Psychological
+79,fire,moderately,They still come but they avid areas with fire,not scared,Psychological
+82,fire,not,They are now used to fire,not scared,Psychological
+83,fire,not,They are used to fire,not scared,Psychological
+84,fire,not,They even pass close to the fire unless someone is close by,not scared,Psychological
+85,fire,not,They don't fear fire,not scared,Psychological
+87,fire,not,I think they are not afraid of fire,not scared,Psychological
+89,fire,moderately,Unless the fire is large enough,not scared,Psychological
+91,fire,not,They pass even close to fire,not scared,Psychological
+95,fire,not,They are not afraid,not scared,Psychological
+98,fire,not,They are not afraid of fire,not scared,Psychological
+99,fire,not,They still come even close to fire,not scared,Psychological
+114,fire,not,They even pass close to it,not scared,Psychological
+117,fire,not,They are not afraid of fire unless someone is in the farm,not scared,Psychological
+132,fire,moderately,They help in visibility,not scared,Psychological
+144,fire,not,They are used to this method they even feed closer to it,not scared,Psychological
+157,fire,not,This only helps information hippo,not scared,Psychological
+121,fire,moderately,It helps they cannot break the fence,reduce fence breaking,Psychological
+6,fire,not,It is dangarous to even the farm,saftey hazard,Environmental
+12,fire,moderately,Giraffe never approach fire,scare,Psychological
+14,fire,Highly,Giraffe fear fire,scare,Psychological
+15,fire,moderately,They fear fire,scare,Psychological
+61,fire,moderately,Giraffe avoid entering where there is fire but go around in dark area,scare,Psychological
+62,fire,Highly,They are afraid,scare,Psychological
+101,fire,moderately,Only female and young are afraid,scare,Psychological
+102,fire,moderately,They avoid coming through places with fire,scare,Psychological
+103,fire,moderately,They avoid entry where there is fire,scare,Psychological
+104,fire,moderately,They avoid entry at points with fire,scare,Psychological
+105,fire,moderately,They avoid fire area,scare,Psychological
+106,fire,moderately,They just go through somewhere else with no fire,scare,Psychological
+108,fire,not,Some are afraid others don't care especially male adults,scare,Psychological
+109,fire,moderately,Some are afraid but not all,scare,Psychological
+110,fire,moderately,They avoid entry at fire points,scare,Psychological
+131,fire,moderately,They go around fire,scare,Psychological
+136,fire,moderately,Some are afraid but not all,scare,Psychological
+137,fire,moderately,They go around fire in dark places,scare,Psychological
+46,fire,moderately,Not that much effective,unsure,Unsure
+72,fire,not,Not that much effective,unsure,Unsure
+164,fire,not,I am not sure,unsure,Unsure
+165,fire,moderately,It will cost me a lot to fance,unsure,Unsure
+176,fire,not,Very little,unsure,Unsure
+183,fire,moderately,NOT really,unsure,Unsure
+185,fire,moderately,NOT really,unsure,Unsure
+186,fire,Highly,Because of gizaa,unsure,Unsure
+82,flashlight,moderately,They are used to this and sometimes the battery out,got used to,Behavioral
+91,flashlight,not,They are used to it,got used to,Behavioral
+102,flashlight,not,They are used to flashlight by now,got used to,Behavioral
+103,flashlight,not,They are used to this method,got used to,Behavioral
+106,flashlight,moderately,They are used to it by now,got used to,Behavioral
+107,flashlight,moderately,They are used to this,got used to,Behavioral
+115,flashlight,moderately,I think they are used to it,got used to,Behavioral
+118,flashlight,not,They are used to it unless someone is waving it they even pass close to the flashlight,got used to,Behavioral
+119,flashlight,moderately,They are used to it,got used to,Behavioral
+134,flashlight,not,They are used,got used to,Behavioral
+135,flashlight,moderately,They get used to it fast,got used to,Behavioral
+142,flashlight,moderately,even though they get used to it,got used to,Behavioral
+143,flashlight,not,They are used to it,got used to,Behavioral
+145,flashlight,not,They are used to it,got used to,Behavioral
+150,flashlight,not,They get used to it,got used to,Behavioral
+110,flashlight,moderately,They think there are human around,human limitations,Behavioral
+5,flashlight,Highly,Indicate presence of human,human presence,Psychological
+60,flashlight,extremely,Torch indicate presence of human and giraffe are afraid humans,human presence,Psychological
+61,flashlight,extremely,Show that there is somebody around,human presence,Psychological
+86,flashlight,extremely,It indicates human presence,human presence,Psychological
+112,flashlight,moderately,It indicate human presence,human presence,Psychological
+136,flashlight,Highly,Simulate human presence,human presence,Psychological
+138,flashlight,moderately,They show human presence,human presence,Psychological
+146,flashlight,moderately,They think someone is on the farm but they are now used to it,human presence,Psychological
+147,flashlight,moderately,Simulate human presence,human presence,Psychological
+153,flashlight,moderately,They think someone is at the farm,human presence,Psychological
+163,flashlight,not,They are used to this methods,human presence,Psychological
+101,flashlight,moderately,adult males don't care,not scared,Psychological
+144,flashlight,not,They still come around,return,Behavioral
+96,flashlight,Highly,They don't like light at night,scare,Psychological
+104,flashlight,moderately,They are sometimes scared but not always,scare,Psychological
+105,flashlight,Highly,They don't like like at night,scare,Psychological
+108,flashlight,moderately,Works for females and young but not adult males,scare,Psychological
+137,flashlight,Highly,it is a live fence,unsure,Unsure
+2,guard,extremely,Chases the giraffe away,chase away,Behavioral
+3,guard,extremely,Chase giraffe,chase away,Behavioral
+5,guard,moderately,Chase giraffe,chase away,Behavioral
+6,guard,moderately,Chases them away,chase away,Behavioral
+7,guard,moderately,Chase away giraffe using flashlight,chase away,Behavioral
+8,guard,moderately,Chase them away,chase away,Behavioral
+9,guard,Highly,Chase giraffe,chase away,Behavioral
+11,guard,Highly,Chases giraffe away,chase away,Behavioral
+12,guard,extremely,Chase away but they still return,chase away,Behavioral
+13,guard,Highly,Chase them away,chase away,Behavioral
+14,guard,moderately,Chase giraffe,chase away,Behavioral
+15,guard,Highly,Chase them usually with flashlight,chase away,Behavioral
+16,guard,Highly,Chase them away but they return,chase away,Behavioral
+17,guard,extremely,Chases them with flashlight,chase away,Behavioral
+18,guard,Highly,They chase them away,chase away,Behavioral
+19,guard,Highly,They chase them,chase away,Behavioral
+20,guard,Highly,They chase them using flashlight,chase away,Behavioral
+21,guard,extremely,Chases them away,chase away,Behavioral
+22,guard,Highly,The are always alert to chase them away,chase away,Behavioral
+30,guard,Highly,Only when they actively chase the and not sleep,chase away,Behavioral
+31,guard,moderately,You can manage to chase some,chase away,Behavioral
+33,guard,moderately,Chase Giraffe away,chase away,Behavioral
+35,guard,moderately,Chase away Giraffe,chase away,Behavioral
+40,guard,moderately,They somehow manage to chase away,chase away,Behavioral
+41,guard,Highly,Assist in chasing away the Giraffes,chase away,Behavioral
+44,guard,moderately,They. Chase away upon seeing them,chase away,Behavioral
+45,guard,moderately,They are always there to chase them away,chase away,Behavioral
+47,guard,moderately,Always present to chase them away,chase away,Behavioral
+48,guard,moderately,Always alert to chase them away,chase away,Behavioral
+49,guard,moderately,Always there to chase the girraffes away,chase away,Behavioral
+50,guard,moderately,Present to prevent invasion,chase away,Behavioral
+52,guard,moderately,They chase the girraffes when invaded,chase away,Behavioral
+58,guard,Highly,They chase them but they still come,chase away,Behavioral
+61,guard,Highly,They chase but still come around,chase away,Behavioral
+62,guard,Highly,Chase them away,chase away,Behavioral
+72,guard,moderately,Alert to chase them away,chase away,Behavioral
+73,guard,moderately,Alert to chase the girraffes away,chase away,Behavioral
+74,guard,moderately,They are alert to chase the girraffes,chase away,Behavioral
+77,guard,Highly,They chase them using flashlight and making noise,chase away,Behavioral
+78,guard,Highly,They chase them,chase away,Behavioral
+79,guard,Highly,Chase them away,chase away,Behavioral
+80,guard,Highly,They chase them when awake all night,chase away,Behavioral
+81,guard,Highly,They chase them whenever they come,chase away,Behavioral
+83,guard,Highly,They chase them but it wears them down and sleep,chase away,Behavioral
+84,guard,Highly,They chase them,chase away,Behavioral
+86,guard,Highly,We chase them,chase away,Behavioral
+88,guard,Highly,We chase them away,chase away,Behavioral
+90,guard,Highly,Chase them,chase away,Behavioral
+91,guard,Highly,They chase them,chase away,Behavioral
+92,guard,Highly,They chase them,chase away,Behavioral
+93,guard,moderately,They chase them but still come,chase away,Behavioral
+94,guard,moderately,They chase them,chase away,Behavioral
+96,guard,Highly,They chase them away,chase away,Behavioral
+98,guard,moderately,They chase them away,chase away,Behavioral
+99,guard,Highly,They chase them away,chase away,Behavioral
+101,guard,Highly,They chase them but sleep sometimes,chase away,Behavioral
+105,guard,Highly,They chase them away,chase away,Behavioral
+106,guard,Highly,They chase them away but some male giraffes are not afraid,chase away,Behavioral
+108,guard,moderately,We chase them away,chase away,Behavioral
+109,guard,moderately,They chase them away,chase away,Behavioral
+110,guard,Highly,Chase them whenever enter,chase away,Behavioral
+112,guard,Highly,They chase them,chase away,Behavioral
+113,guard,moderately,They chase them away,chase away,Behavioral
+117,guard,Highly,They chase them,chase away,Behavioral
+118,guard,Highly,They chase them,chase away,Behavioral
+119,guard,Highly,They chase them away,chase away,Behavioral
+122,guard,Highly,When awake they chase them,chase away,Behavioral
+128,guard,moderately,They chase them away,chase away,Behavioral
+129,guard,moderately,They chase them but they still come back,chase away,Behavioral
+130,guard,Highly,They chase them away,chase away,Behavioral
+131,guard,moderately,They chase them away but sleep sometimes,chase away,Behavioral
+132,guard,moderately,They chase them away,chase away,Behavioral
+133,guard,moderately,They chase them,chase away,Behavioral
+139,guard,Highly,They chase them away while making noise,chase away,Behavioral
+140,guard,moderately,They chase them away,chase away,Behavioral
+142,guard,Highly,They chase them away,chase away,Behavioral
+143,guard,Highly,They chase them away,chase away,Behavioral
+144,guard,Highly,They chase them,chase away,Behavioral
+145,guard,Highly,They chase them away even though they return it helps,chase away,Behavioral
+146,guard,Highly,They chase them away,chase away,Behavioral
+148,guard,Highly,They chase them away,chase away,Behavioral
+157,guard,Highly,They chase them,chase away,Behavioral
+158,guard,Highly,They chase them,chase away,Behavioral
+160,guard,Highly,They chase them,chase away,Behavioral
+164,guard,Highly,They chase them away,chase away,Behavioral
+166,guard,Highly,They chase them away,chase away,Behavioral
+185,guard,Highly,It reduces the girrafe to enter the farm,chase away,Behavioral
+10,guard,moderately,Giraffes still return even after being chased,got used to,Behavioral
+29,guard,moderately,They can not always be around,human limitations,Behavioral
+59,guard,moderately,Sometime they sleep and giraffes comes in but they chase them when awake,human limitations,Behavioral
+60,guard,moderately,They chase them but not always,human limitations,Behavioral
+71,guard,moderately,Only effective when around throughout,human limitations,Behavioral
+82,guard,moderately,They keep coming,human limitations,Behavioral
+87,guard,moderately,We can only try to reduce but some days you get lazy or overwhelmed by sleep,human limitations,Behavioral
+89,guard,moderately,Human get tired,human limitations,Behavioral
+95,guard,moderately,They chase them but sometimes they sleep,human limitations,Behavioral
+100,guard,moderately,They try but the farm is big with multiple entry points,human limitations,Behavioral
+102,guard,moderately,They chase them but big they go through other entry points,human limitations,Behavioral
+103,guard,moderately,Effective but human sleep sometimes,human limitations,Behavioral
+107,guard,moderately,Sometimes they sleep nbut it helps when awake,human limitations,Behavioral
+111,guard,moderately,They sleep sometimes and that is when they come,human limitations,Behavioral
+114,guard,moderately,They chase them but some days they sleep,human limitations,Behavioral
+116,guard,moderately,They chase them but sometimes sleep,human limitations,Behavioral
+120,guard,moderately,Sleeps but when awake it helps,human limitations,Behavioral
+124,guard,moderately,They are effective but sleep sometimes,human limitations,Behavioral
+125,guard,moderately,They chase them but sleep sometimes,human limitations,Behavioral
+126,guard,moderately,They sleep but chase them when awake,human limitations,Behavioral
+127,guard,moderately,They chase them but they sleep sometimes,human limitations,Behavioral
+134,guard,moderately,They chase them but sleep,human limitations,Behavioral
+135,guard,moderately,They chase them but sleep sometimes,human limitations,Behavioral
+136,guard,moderately,Chase them but sleep sometimes,human limitations,Behavioral
+137,guard,moderately,They chase them but sleep sometimes,human limitations,Behavioral
+156,guard,moderately,They chase them but they can't stay all night it is dangerous,human limitations,Behavioral
+163,guard,Highly,Helps only when awake present,human limitations,Behavioral
+169,guard,moderately,They sleep,human limitations,Behavioral
+170,guard,moderately,They sleep,human limitations,Behavioral
+187,guard,Highly,2,no reason,no reason
+192,guard,moderately,2,no reason,no reason
+197,guard,Highly,2,no reason,no reason
+205,guard,moderately,2,no reason,no reason
+23,guard,not,Giraffe still invade the farm,not scared,Psychological
+25,guard,not,Giraffe don't fear live guard,not scared,Psychological
+115,guard,not,giraffe are afraid of human,not scared,Psychological
+138,guard,moderately,Chase them away but they return,return,Behavioral
+46,guard,moderately,Some times not effective due to fear,saftey hazard,Environmental
+149,guard,Highly,Effective but eour area is hippo infested so it is not safe,saftey hazard,Environmental
+151,guard,moderately,It helps but the area is not safe because of hippo and sometimes they sleep,saftey hazard,Environmental
+152,guard,moderately,They chase them but this area has hippo so they can't risk stay out late,saftey hazard,Environmental
+167,guard,moderately,They are afraid of hippo so they don't help as much,saftey hazard,Environmental
+168,guard,moderately,They help but sleep some days and also they can't stay on farm all the time because of hippos,saftey hazard,Environmental
+45,guard,moderately,Not that much effective,unsure,Unsure
+165,guard,don_know,It will cost my money's alot,unsure,Unsure
+171,guard,moderately,Not really,unsure,Unsure
+175,guard,moderately,Not really,unsure,Unsure
+176,guard,moderately,It reduces the girrafe to enter the farm not really,unsure,Unsure
+177,guard,moderately,Not really,unsure,Unsure
+183,guard,Highly,It reduces the girrafe to enter the farm,unsure,Unsure
+121,guard,Highly,When someone is in the farm they cannot break the fence,,Behavioral
+17,guard_dog,Highly,Make noise and alert liveg uard,alert  guard,Behavioral
+19,guard_dog,not,It just help the guard see them but nothing more,alert  guard,Behavioral
+47,guard_dog,moderately,They alert you once invaded,alert  guard,Behavioral
+50,guard_dog,moderately,Alert you in case of invasion,alert  guard,Behavioral
+89,guard_dog,moderately,They alert the guard,alert  guard,Behavioral
+94,guard_dog,moderately,They alert the guard,alert  guard,Behavioral
+96,guard_dog,moderately,They alert the guard,alert  guard,Behavioral
+98,guard_dog,moderately,They alert the guard,alert  guard,Behavioral
+102,guard_dog,moderately,They alert the guard when asleep,alert  guard,Behavioral
+108,guard_dog,moderately,They just alert you of their presence,alert  guard,Behavioral
+112,guard_dog,moderately,They alert the guards,alert  guard,Behavioral
+114,guard_dog,moderately,They alert the guard,alert  guard,Behavioral
+131,guard_dog,moderately,They just alert the guard,alert  guard,Behavioral
+139,guard_dog,moderately,They alert the guard,alert  guard,Behavioral
+142,guard_dog,moderately,They alert the guard,alert  guard,Behavioral
+145,guard_dog,moderately,They alert the guard,alert  guard,Behavioral
+148,guard_dog,moderately,They alert live guard,alert  guard,Behavioral
+166,guard_dog,not,They just alert the guard but giraffe are not afraid,alert  guard,Behavioral
+18,guard_dog,not,Giraffe is not afraid of dogs,not scared,Psychological
+92,guard_dog,not,Dogs are even afraid of giraffe but their barking alerts the guard,not scared,Psychological
+93,guard_dog,not,Dogs are afraid,not scared,Psychological
+95,guard_dog,not,Dogs are afraid of giraffe,not scared,Psychological
+147,guard_dog,not,Unless there is someone to chase them dogs are useless against giraffe,not scared,Psychological
+149,guard_dog,not,Giraffe are not afraid,not scared,Psychological
+151,guard_dog,not,Dogs are small giraffe are not scared at all,not scared,Psychological
+101,guard_dog,moderately,Female and young,scare,Psychological
+165,guard_dog,moderately,By spending more money buying it,unsure,Unsure
+72,pitfall,Highly,They scare away the girraffes,scare,Psychological
+165,pitfall,moderately,Because I can get effective by the coldness,unsure,Unsure
+101,propellas,moderately,They alert the guard when he is asleep,alert  guard,Behavioral
+86,propellas,extremely,This only works if you are around doing it other wise when using wind they still come,chase away,Behavioral
+85,propellas,not,They are used to it,got used to,Behavioral
+103,propellas,not,They are used to this method,got used to,Behavioral
+122,propellas,moderately,They are used it,got used to,Behavioral
+123,propellas,not,They are used to it,got used to,Behavioral
+126,propellas,not,They don't care anymore,got used to,Behavioral
+131,propellas,moderately,They are used to it,got used to,Behavioral
+133,propellas,not,They are used to this,got used to,Behavioral
+136,propellas,moderately,They  get used to it,got used to,Behavioral
+152,propellas,not,They are used to it,got used to,Behavioral
+154,propellas,not,They got used to it,got used to,Behavioral
+160,propellas,not,They are used to it,got used to,Behavioral
+125,propellas,moderately,They think someone is in the farm,human limitations,Behavioral
+7,propellas,moderately,It think they are human,human presence,Psychological
+12,propellas,moderately,Indicate pre5of human,human presence,Psychological
+13,propellas,moderately,Simulate human presence,human presence,Psychological
+14,propellas,Highly,Simulate presence of human,human presence,Psychological
+15,propellas,Highly,They make noise simulating human presence,human presence,Psychological
+16,propellas,moderately,In addition to human this can help,human presence,Psychological
+62,propellas,moderately,They think someone is in the farm,human presence,Psychological
+63,propellas,moderately,Indicate  human presence,human presence,Psychological
+64,propellas,moderately,Indicate human presence,human presence,Psychological
+77,propellas,moderately,Indicate human presence,human presence,Psychological
+78,propellas,moderately,They make noise indicating human presence,human presence,Psychological
+79,propellas,moderately,They think there is someone at the farm,human presence,Psychological
+82,propellas,moderately,Indicate human presence,human presence,Psychological
+83,propellas,Highly,The noise made by stones in a bottle indicate human presence,human presence,Psychological
+89,propellas,extremely,They indicate human presence,human presence,Psychological
+94,propellas,Highly,They make noise to show someone is around,human presence,Psychological
+98,propellas,moderately,They indicate human presence,human presence,Psychological
+99,propellas,moderately,They make noise making them think someone is on the farm,human presence,Psychological
+104,propellas,moderately,It show human presence,human presence,Psychological
+105,propellas,moderately,They produce sound when wind blows making the think there are human,human presence,Psychological
+108,propellas,moderately,It shows people are around but adult males still come,human presence,Psychological
+109,propellas,moderately,When we chase giraffes we knock iron sheet to produce noice spaying them makes them think so,human presence,Psychological
+110,propellas,moderately,Indicate humans presence,human presence,Psychological
+111,propellas,moderately,They think there is someone on the farm,human presence,Psychological
+112,propellas,moderately,Indicate human presence,human presence,Psychological
+130,propellas,moderately,They think there is someone on the farm,human presence,Psychological
+148,propellas,moderately,Indicate human  presence,human presence,Psychological
+151,propellas,Highly,Indicate human presence,human presence,Psychological
+163,propellas,moderately,Simulate human presence,human presence,Psychological
+102,propellas,Highly,Make noise but after sometime they get used to it and pass reg,noisy,no reason
+166,propellas,not,the even pass close to fire,not scared,Psychological
+95,propellas,moderately,They go but come back,return,Behavioral
+25,propellas,moderately,They thing it is trap,scare,Psychological
+28,propellas,moderately,Act as a trap,scare,Psychological
+30,propellas,moderately,Giraffes that are not familiar run when they hear this but those used to it stay,scare,Psychological
+31,propellas,moderately,It produces sound that chase away Giraffes,scare,Psychological
+80,propellas,Highly,They make noise making the,scare,Psychological
+81,propellas,Highly,They run when they here sounds made by bottle filled with stones,scare,Psychological
+96,propellas,moderately,They make noise,scare,Psychological
+106,propellas,moderately,Some are afrother don't care,scare,Psychological
+107,propellas,moderately,This helps with new individuals and maybe females males do not care,scare,Psychological
+114,propellas,Highly,When someone shakes it they go but when tied to be blown by wind it doesn't help,scare,Psychological
+115,propellas,moderately,They chase them away,scare,Psychological
+117,propellas,Highly,They make noise to chase them but not when they are rushing,scare,Psychological
+118,propellas,moderately,They make noise chasing them but they return,scare,Psychological
+132,propellas,Highly,They scare them aways,scare,Psychological
+139,propellas,Highly,They make nose and giraffe don't like noise,scare,Psychological
+157,propellas,moderately,They avoid places with sheets tied for wind to blow,scare,Psychological
+24,propellas,moderately,Reduce Giraffe invasion,unsure,Unsure
+84,propellas,moderately,we just use fire for visibility,unsure,Unsure
+149,scarecrow,moderately,First few days it works but they get used to it,got used to,Behavioral
