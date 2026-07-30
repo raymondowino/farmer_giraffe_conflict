@@ -1,3 +1,4 @@
+![This is an image.](https://github.com/raymondowino/farmer_giraffe_conflict/blob/main/giraffe.jpg?raw=true)
 **Reticulated giraffes (*Giraffa reticulata*)**
 
 *Photo credit: Raymond Owino*
